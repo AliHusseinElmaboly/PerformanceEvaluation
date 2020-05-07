@@ -1,0 +1,119 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         2013-05-15
+Simulation start time:   11.56.05.PD PDT
+Simulation end time:     11.56.05.PD PDT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    228.38895899912288
+Total transient time:    0.0
+Total steady state time: 228.38895899912288
+Transient condition:     None
+Termination condition:   10000.0 units of elapsed simulated time
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+------------------------- factory --------------------------
+
+- Arrival rate
+
+Sample mean:          0.0
+Event count:          0
+
+- Service time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Throughput
+
+Sample mean:          0.0
+Event count:          0
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+---------------------- machineCenter -----------------------
+
+- Arrival rate
+
+Sample mean:          0.5779613891077237
+Event count:          132
+
+- Service time
+
+Sample mean:          0.6692708345847769
+Sample variance:      2.6093720529138365E-4
+Sample std deviation: 0.016153550857052563
+Maximum:              0.6996704071758586
+Minimum:              0.6500305177178376
+
+- Throughput
+
+Sample mean:          0.5779613891077237
+Event count:          132
+
+- Queue length
+
+Sample mean:          0.05210811218036348
+Sample variance:      0.0645572089122279
+Sample std deviation: 0.2540811069564754
+Maximum:              3.0
+Minimum:              0.0
+
+-------------------- inspectionStation ---------------------
+
+- Arrival rate
+
+Sample mean:          0.5779613891077237
+Event count:          132
+
+- Service time
+
+Sample mean:          0.770385928290765
+Sample variance:      2.642599666210863E-4
+Sample std deviation: 0.01625607476056524
+Maximum:              0.7998290985821939
+Minimum:              0.7500549318734813
+
+- Throughput
+
+Sample mean:          0.5779613891077237
+Event count:          132
+
+- Queue length
+
+Sample mean:          0.14373463362423913
+Sample variance:      0.21343329993484372
+Sample std deviation: 0.46198841969777094
+Maximum:              3.0
+Minimum:              0.0
+
